@@ -2,6 +2,28 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 23:49 IR
+- 📱 [Exclave-0.17.37-arm64-v8a.apk](https://github.com/amijafi/sandbox/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) `22.2MB`
+
+- 📱 [adguard-hoo-dles.apk](https://github.com/amijafi/sandbox/raw/main/dl/adguard-hoo-dles.apk) `60.9MB`
+
+- 📱 [eyecon-caller-arm64-v8a-paresh.apk](https://github.com/amijafi/sandbox/raw/main/dl/eyecon-caller-arm64-v8a-paresh.apk) `67.6MB`
+
+- 🗜️ [truecaller-arm64-v8a-paresh.apk.zip](https://github.com/amijafi/sandbox/raw/main/dl/truecaller-arm64-v8a-paresh.apk.zip) `5.1MB`
+
+- 🗜️ [truecaller-arm64-v8a-paresh.apk.z01](https://github.com/amijafi/sandbox/raw/main/dl/truecaller-arm64-v8a-paresh.apk.z01) `95.0MB`
+
+- 🗜️ [truecaller-arm64-v8a-paresh.apk.zip](https://github.com/amijafi/sandbox/raw/main/dl/truecaller-arm64-v8a-paresh.apk.zip) `5.1MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.z01](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.z01) `95.0MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+---
+
+
 ### 📅 2026-04-30 13:17 IR
 - 📱 [Audile_v1.14.0_github.apk](https://github.com/amijafi/sandbox/raw/main/dl/Audile_v1.14.0_github.apk) `9.6MB`
 
