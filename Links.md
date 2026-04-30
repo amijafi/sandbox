@@ -2,6 +2,20 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 12:44 IR
+- 🗜️ [AmneziaVPN_4.8.15.4_x64.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/AmneziaVPN_4.8.15.4_x64.exe.zip) `3.4MB`
+
+- 🗜️ [AmneziaVPN_4.8.15.4_x64.exe.z01](https://github.com/amijafi/sandbox/raw/main/dl/AmneziaVPN_4.8.15.4_x64.exe.z01) `95.0MB`
+
+- 🗜️ [AmneziaVPN_4.8.15.4_x64.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/AmneziaVPN_4.8.15.4_x64.exe.zip) `3.4MB`
+
+- 📥 [OnionHop-Setup-2.7.exe](https://github.com/amijafi/sandbox/raw/main/dl/OnionHop-Setup-2.7.exe) `69.2MB`
+
+- 🗜️ [VisualCppRedist_AIO_x86_x64_104.zip](https://github.com/amijafi/sandbox/raw/main/dl/VisualCppRedist_AIO_x86_x64_104.zip) `30.7MB`
+
+---
+
+
 ### 📅 2026-04-30 12:37 IR
 - 📱 [QUIK-v4.3.6-fdroid.apk](https://github.com/amijafi/sandbox/raw/main/dl/QUIK-v4.3.6-fdroid.apk) `49.4MB`
 
