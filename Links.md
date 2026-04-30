@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 12:37 IR
+- 📱 [QUIK-v4.3.6-fdroid.apk](https://github.com/amijafi/sandbox/raw/main/dl/QUIK-v4.3.6-fdroid.apk) `49.4MB`
+
+---
+
+
 ### 📅 2026-04-30 12:26 IR
 - 📥 [ABDownloadManager_1.8.8_windows_x64.exe](https://github.com/amijafi/sandbox/raw/main/dl/ABDownloadManager_1.8.8_windows_x64.exe) `64.2MB`
 
