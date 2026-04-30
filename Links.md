@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 12:58 IR
+- 📱 [app-arm64-v8a.apk](https://github.com/amijafi/sandbox/raw/main/dl/app-arm64-v8a-release.apk) `31.0MB`
+
+---
+
+
 ### 📅 2026-04-30 12:44 IR
 - 🗜️ [AmneziaVPN_4.8.15.4_x64.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/AmneziaVPN_4.8.15.4_x64.exe.zip) `3.4MB`
 
