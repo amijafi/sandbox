@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 21:01 IR
+- 📥 [proton_vpn_firefox_extension-1.3.0.xpi](https://github.com/amijafi/sandbox/raw/main/dl/proton_vpn_firefox_extension-1.3.0.xpi) `2.5MB`
+
+- 📥 [zenmate_free_vpn_best-9.0.1.xpi](https://github.com/amijafi/sandbox/raw/main/dl/zenmate_free_vpn_best-9.0.1.xpi) `7.4MB`
+
+---
+
+
 ### 📅 2026-05-01 20:53 IR
 - 📥 [windscribe-3.4.14.1.xpi](https://github.com/amijafi/sandbox/raw/main/dl/windscribe-3.4.14.1.xpi) `3.8MB`
 
