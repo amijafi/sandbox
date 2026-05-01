@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 07:53 IR
+- 🗜️ [EzAccessCFScanner.zip](https://github.com/amijafi/sandbox/raw/main/dl/EzAccessCFScanner.zip) `15.7MB`
+
+---
+
+
 ### 📅 2026-05-01 02:06 IR
 - 📱 [masterdnsvpn-HN-1.2.2-arm64-v8a.apk](https://github.com/amijafi/sandbox/raw/main/dl/masterdnsvpn-HN-1.2.2-arm64-v8a-release.apk) `10.0MB`
 
