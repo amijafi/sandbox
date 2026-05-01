@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 09:00 IR
+- 📥 [Microsoft.WindowsTerminal_1.24.10921.0_8wekyb3d8bbwe.msixbundle](https://github.com/amijafi/sandbox/raw/main/dl/Microsoft.WindowsTerminal_1.24.10921.0_8wekyb3d8bbwe.msixbundle) `21.3MB`
+
+---
+
+
 ### 📅 2026-05-01 08:56 IR
 - 🗜️ [GenP.v3.8.0-CGP.zip](https://github.com/amijafi/sandbox/raw/main/dl/GenP.v3.8.0-CGP.zip) `1.3MB`
 
