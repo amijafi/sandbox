@@ -2,6 +2,26 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 09:06 IR
+- 🗜️ [Cloudflare_WARP_2026.3.851.0.msi.zip](https://github.com/amijafi/sandbox/raw/main/dl/Cloudflare_WARP_2026.3.851.0.msi.zip) `32.7MB`
+
+- 🗜️ [Cloudflare_WARP_2026.3.851.0.msi.z01](https://github.com/amijafi/sandbox/raw/main/dl/Cloudflare_WARP_2026.3.851.0.msi.z01) `95.0MB`
+
+- 🗜️ [Cloudflare_WARP_2026.3.851.0.msi.zip](https://github.com/amijafi/sandbox/raw/main/dl/Cloudflare_WARP_2026.3.851.0.msi.zip) `32.7MB`
+
+- 📥 [PortableGit-2.54.0-64-bit.7z.exe](https://github.com/amijafi/sandbox/raw/main/dl/PortableGit-2.54.0-64-bit.7z.exe) `56.3MB`
+
+- 📥 [WindowsAppRuntimeInstall-x64.1.exe](https://github.com/amijafi/sandbox/raw/main/dl/WindowsAppRuntimeInstall-x64.1.exe) `67.9MB`
+
+- 🗜️ [WindowsAppRuntimeInstall-x64.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/WindowsAppRuntimeInstall-x64.exe.zip) `5.9MB`
+
+- 🗜️ [WindowsAppRuntimeInstall-x64.exe.z01](https://github.com/amijafi/sandbox/raw/main/dl/WindowsAppRuntimeInstall-x64.exe.z01) `95.0MB`
+
+- 🗜️ [WindowsAppRuntimeInstall-x64.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/WindowsAppRuntimeInstall-x64.exe.zip) `5.9MB`
+
+---
+
+
 ### 📅 2026-05-01 09:00 IR
 - 📥 [Microsoft.WindowsTerminal_1.24.10921.0_8wekyb3d8bbwe.msixbundle](https://github.com/amijafi/sandbox/raw/main/dl/Microsoft.WindowsTerminal_1.24.10921.0_8wekyb3d8bbwe.msixbundle) `21.3MB`
 
