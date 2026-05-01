@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 08:35 IR
+- 📥 [adguard_adblocker-5.3.1.7.xpi](https://github.com/amijafi/sandbox/raw/main/dl/adguard_adblocker-5.3.1.7.xpi) `19.9MB`
+
+---
+
+
 ### 📅 2026-05-01 07:53 IR
 - 🗜️ [EzAccessCFScanner.zip](https://github.com/amijafi/sandbox/raw/main/dl/EzAccessCFScanner.zip) `15.7MB`
 
