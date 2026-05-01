@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 10:00 IR
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.z01](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.z01) `95.0MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+---
+
+
 ### 📅 2026-05-01 09:27 IR
 - 📥 [windowsdesktop-runtime-10.0.7-win-x64.exe](https://github.com/amijafi/sandbox/raw/main/dl/windowsdesktop-runtime-10.0.7-win-x64.exe) `57.2MB`
 
