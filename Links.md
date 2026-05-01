@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 20:53 IR
+- 📥 [windscribe-3.4.14.1.xpi](https://github.com/amijafi/sandbox/raw/main/dl/windscribe-3.4.14.1.xpi) `3.8MB`
+
+---
+
+
 ### 📅 2026-05-01 10:00 IR
 - 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/amijafi/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
 
