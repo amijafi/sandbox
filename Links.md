@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 10:09 IR
+- 📥 [foxyproxy_standard-9.2.xpi](https://github.com/amijafi/sandbox/raw/main/dl/foxyproxy_standard-9.2.xpi) `224KB`
+
+---
+
+
 ### 📅 2026-05-02 07:35 IR
 - 📱 [Audile_v1.15.0_github.apk](https://github.com/amijafi/sandbox/raw/main/dl/Audile_v1.15.0_github.apk) `9.7MB`
 
