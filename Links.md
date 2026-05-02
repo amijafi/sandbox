@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 16:45 IR
+- 🗜️ [BlackLotus-proxy.zip](https://github.com/amijafi/sandbox/raw/main/dl/BlackLotus-proxy.zip) `23.1MB`
+
+---
+
+
 ### 📅 2026-05-02 13:22 IR
 - 📥 [MasterVPN-Windows-x64.exe](https://github.com/amijafi/sandbox/raw/main/dl/MasterVPN-Windows-x64.exe) `16.8MB`
 
