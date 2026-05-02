@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 07:20 IR
+- 🗜️ [mhr-cfw-2.0.0.zip](https://github.com/amijafi/sandbox/raw/main/dl/mhr-cfw-2.0.0.zip) `75KB`
+
+---
+
+
 ### 📅 2026-05-02 07:11 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.7.apk](https://github.com/amijafi/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk) `18.1MB`
 
