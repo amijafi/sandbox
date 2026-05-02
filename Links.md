@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 13:22 IR
+- 📥 [MasterVPN-Windows-x64.exe](https://github.com/amijafi/sandbox/raw/main/dl/MasterVPN-Windows-x64.exe) `16.8MB`
+
+---
+
+
 ### 📅 2026-05-02 10:09 IR
 - 📥 [foxyproxy_standard-9.2.xpi](https://github.com/amijafi/sandbox/raw/main/dl/foxyproxy_standard-9.2.xpi) `224KB`
 
