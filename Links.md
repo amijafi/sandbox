@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 13:22 IR
+- 📱 [husi-1.2.0-beta.1-arm64-v8a.apk](https://github.com/amijafi/sandbox/raw/main/dl/husi-1.2.0-beta.1-arm64-v8a.apk) `24.4MB`
+
+---
+
+
 ### 📅 2026-05-02 17:07 IR
 - 🗜️ [AcrobatDCx64Upd2600121529.msp.zip](https://github.com/amijafi/sandbox/raw/main/dl/AcrobatDCx64Upd2600121529.msp.zip) `75.3MB`
 
