@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 20:25 IR
+- 📱 [PsiphonAndroid.apk](https://github.com/amijafi/sandbox/raw/main/dl/PsiphonAndroid.apk) `21.9MB`
+
+- 📥 [psiphon3.exe](https://github.com/amijafi/sandbox/raw/main/dl/psiphon3.exe) `9.9MB`
+
+---
+
+
 ### 📅 2026-05-03 13:22 IR
 - 📱 [husi-1.2.0-beta.1-arm64-v8a.apk](https://github.com/amijafi/sandbox/raw/main/dl/husi-1.2.0-beta.1-arm64-v8a.apk) `24.4MB`
 
