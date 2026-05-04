@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 12:56 IR
+- 🗜️ [HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.zip) `3.1MB`
+
+- 🗜️ [HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.z01](https://github.com/amijafi/sandbox/raw/main/dl/HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.z01) `95.0MB`
+
+- 🗜️ [HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.zip](https://github.com/amijafi/sandbox/raw/main/dl/HP_Laser_103_107_108_Full_Software_Driver_V1.22.exe.zip) `3.1MB`
+
+---
+
+
 ### 📅 2026-05-04 00:33 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.8.apk](https://github.com/amijafi/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.8.apk) `18.1MB`
 
